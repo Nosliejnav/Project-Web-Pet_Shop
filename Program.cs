@@ -9,6 +9,11 @@ public class Program
 
         app.MapGet("/", () => "Projeto Web - LH Pets versão 1");
 
+        app.UseStaticFiles();
+        app.MapGet("/index", (HttpContext contexto)=>{
+            contexto.Response.Redirect("index.html", false);
+        });
+
         app.Run();
     }
 }

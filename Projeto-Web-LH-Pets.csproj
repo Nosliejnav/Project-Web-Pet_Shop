@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>Projeto_Web_LH_Pets</RootNamespace>
+    <RootNamespace>Projeto_Web_LH_Pets_1</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

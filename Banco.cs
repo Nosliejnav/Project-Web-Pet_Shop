@@ -7,7 +7,7 @@ namespace Projeto_Web_Lh_Pets_versão_1
 	
     private List<Clientes> lista=new List<Clientes>();
 
-    public List<Clientes> GetList()
+    public List<Clientes> GetLista()
     {
         return lista;
     }

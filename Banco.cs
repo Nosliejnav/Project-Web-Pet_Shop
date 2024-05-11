@@ -5,13 +5,19 @@ namespace Projeto_Web_Lh_Pets_versão_1
     class Banco
     {   
 	
+    private List<Clientes> lista=new List<Clientes>();
+
+    public List<Clientes> GetList()
+    {
+        return lista;
+    }
     
 	public Banco()
 	{
 	 	try
                 {
                     SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(
-                    "User ID=sa;Password=12345;" +
+                    "User ID=sa;Password=1234;" +
                     "Server=localhost\\SQLEXPRESS;" +
                     "Database=vendas;" +
                     "Trusted_Connection=False;"

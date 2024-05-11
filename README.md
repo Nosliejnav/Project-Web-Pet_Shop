@@ -1,4 +1,4 @@
-# Web-LH-Pets-Projeto
+# Project-Web-Pet_Shop
 Repositório criado com o objetivo de compartilhar conteúdo sobre orientação a 
 objetos.
 ## :rocket: Descrição

@@ -1,0 +1,13 @@
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\Projeto-Web-LH-Pets.exe
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\appsettings.Development.json
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\appsettings.json
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\Projeto-Web-LH-Pets.dll
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\Projeto-Web-LH-Pets.deps.json
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\Projeto-Web-LH-Pets.runtimeconfig.json
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\Projeto-Web-LH-Pets.pdb
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\System.Data.SqlClient.dll
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\runtimes\win-x64\native\sni.dll
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\runtimes\win-x86\native\sni.dll
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+K:\PROJETOS\CSharp\Projeto-Web-LH-Pets\bin\Release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

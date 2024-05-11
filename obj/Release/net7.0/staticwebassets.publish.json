@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "gMj+hDr7LFH70CUfuG7jhGLI4hK5ZjAxLc+RKruR120=",
+  "Source": "Projeto-Web-LH-Pets",
+  "BasePath": "_content/Projeto-Web-LH-Pets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto-Web-LH-Pets\\wwwroot",
+      "Source": "Projeto-Web-LH-Pets",
+      "ContentRoot": "K:\\PROJETOS\\CSharp\\Projeto-Web-LH-Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto-Web-LH-Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "K:\\PROJETOS\\CSharp\\Projeto-Web-LH-Pets\\wwwroot\\index.html",
+      "SourceId": "Projeto-Web-LH-Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "K:\\PROJETOS\\CSharp\\Projeto-Web-LH-Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto-Web-LH-Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
